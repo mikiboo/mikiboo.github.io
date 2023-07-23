@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.flutter_deeplink",
+      "sha256_cert_fingerprints":
+        ["C9:4D:5A:50:84:EE:0B:59:26:A8:E6:ED:7F:C7:0B:72:A5:BF:20:E0:E1:C8:71:11:C7:FE:DB:08:02:C6:A0:D8"]
+    }
+  }
+]
